@@ -1,90 +1,31 @@
+<h1 align="center">Hi 👋, I'm Ayoub Basidi</h1>
+<h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=AYOUBBASIDI&show_icons=true&theme=dracula">
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBASIDI&show_icons=true&theme=dracula" /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubbasidi&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubbasidi" /> </p>
 
-# 🚀Hello Devs
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubbasidi" alt="ayoubbasidi" /></a> </p>
 
-## 🍊 Ayoub 's Github Profile
-I am Ayoub, I’m a Full Stack developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
-I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with php/oop/mvc .
-<!-- I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code. -->
-You can check out some of my projects and if you got any questions you can reach out in the links below.  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 💫 What programming languages I like
+- 👨‍💻 All of my projects are available at [https://github.com/AYOUBBASIDI](https://github.com/AYOUBBASIDI)
 
-As a fullstack developer i prioritize most of my time for Javascript and php .
-  
-<h5>⭐️Languages and Tools</h5>
+- 📫 How to reach me **ayoubbasidi1@gmail.com**
 
-## Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-## Frameworks, Platforms and Libraries
-![React js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react.js&logoColor=blue)
-![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material](https://img.shields.io/badge/Material-ui-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
-![UML](https://img.shields.io/badge/UML-red.svg?style=for-the-badge&logo=UML&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-lightgrey.svg?style=for-the-badge&logo=MVC&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
-![webpack](https://badges.aleen42.com/src/webpack.svg)
-![npm](https://badges.aleen42.com/src/npm.svg) -->
-## IDEs/Editors
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
-## Design
-![Figma](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-<!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
-## Version Control
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) -->
-## Education
+- ⚡ Fun fact **I don't think I'm funny**
 
-<div>
-   <a href='https://youcode.ma/'>
-     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:100px'>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayoub-basidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-basidi" height="30" width="40" /></a>
+<a href="https://instagram.com/ayoub_bsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayoub_bsd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayoubbsd4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayoubbsd4" height="30" width="40" /></a>
+<a href="https://discord.gg/Ayoub#4534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ayoub#4534" height="30" width="40" /></a>
+</p>
 
-![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-<!-- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) -->
-## Developer/Forums
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-## Work/Jobs
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-<!-- ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) -->
-## Hosting/SaaS
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
-<!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubbasidi&show_icons=true&locale=en&layout=compact" alt="ayoubbasidi" /></p>
 
-<!-- ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg)  -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubbasidi&show_icons=true&locale=en" alt="ayoubbasidi" /></p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
-- [Did you ever asked yourself how much JS should i knew as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
-- [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/) -->
-
-<!-- BLOG-POST-LIST:END -->
-
-## 🤙🏻 You can reach out
-
-Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-basidi-98572a228//)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayoubbasidi1@gmail.com)](mailto:the.daali.mouhcine@gmail.com)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AYOUBBASIDI)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbasidi&" alt="ayoubbasidi" /></p>
