@@ -1,5 +1,5 @@
 
-<img align='right' color="bleu" src="https://github-readme-stats.vercel.app/api?username=AYOUBBASIDI&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AYOUBBASIDI&show_icons=true&theme=dark">
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBASIDI&show_icons=true&theme=dracula" /> -->
 
 # 🚀Hello Devs
